@@ -1,0 +1,6 @@
+{
+  "name": "OCD Formación - Teleformación Informática",
+  "description": "Landing page de alta conversión para cursos de teleformación informática con contenidos actualizados, Realidad Aumentada, Realidad Virtual e Inteligencia Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
